@@ -1,7 +1,22 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <label>Họ và tên:  <input type="text" name="txtTen"></label></br>
-    <label>Địa chỉ email: <input type="text" name="</label>
-    <input type="password" id="password" name="password">
-  </head>
-</html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Nguyen Chi Nghi</title>
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body> 
+  <h2><center>ĐÓNG GÓP Ý KIẾN</center></h2>
+  <table><table border="1"</table>
+  <li>Thông tin về người góp ý</li
+    <form>
+      <label>Họ và tên: <input type ="text" name ="txtTen"></label><br>
+      <label>Địa chỉ email: <input type ="text" name="txtEmail"></label><br>
+   </form>
+  <li>Đóng góp ý kiến</li>
+    <form>
+      <label>Ý kiến đóng góp: <textarea name="txtComments" rows="6" cols="40"></textarea></label>
+    </form>
